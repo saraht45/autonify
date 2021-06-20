@@ -1,3 +1,9 @@
+baseurl: /autonify
+url: saraht45.github.io
+
+twitter_username: saraht45
+github_username: saraht45
+
 collections:
     authors:
         output: true
